@@ -11,21 +11,20 @@ I enjoy working on projects that combine clean code with a great user experience
 ### 🛠️ My Tech Stack
 
 **Databases:**
-![SQL](https://shields.io)
-![MySQL](https://shields.io)
+<img src="https://img.shields.io/badge/SQL-blue" alt="SQL">
+<img src="https://img.shields.io/badge/MySQL-blue" alt="MySQL">
 
 **Back-end:**
-![Java](https://shields.io)
+<img src="https://img.shields.io/badge/Java-blue" alt="Java">
 
 **Front-end:**
-![HTML](https://shields.io)
-![CSS](https://shields.io)
-![JavaScript](https://shields.io)
+<img src="https://img.shields.io/badge/HTML-blue" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-blue" alt="CSS">
+<img src="https://img.shields.io/badge/JavaScript-blue" alt="JavaScript">
 
 **Tools:**
-![NetBeans](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://githubassets.com)
+<img src="https://img.shields.io/badge/NetBeans-blue" alt="NetBeans">
+<img src="https://img.shields.io/badge/Git" alt="Git">
 
 ---
 
