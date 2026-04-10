@@ -11,7 +11,7 @@ I enjoy working on projects that combine clean code with a great user experience
 ### 🛠️ My Tech Stack
 
 **Databases:**
-<img src="https://shields.io" alt="SQL Badge">
+<img src="https://shields.io" alt="SQL">
 <img src="https://shields.io" alt="MySQL">
 
 **Back-end:**
