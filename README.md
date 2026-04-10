@@ -3,7 +3,9 @@
 ### Database Expert | Problem Solver | Learner
 
 I specialize in databases.
+<br />
 My passions are Java and Mathematics.
+<br />
 I enjoy working on projects that combine clean code with a great user experience.
 
 ### 🛠️ My Tech Stack
