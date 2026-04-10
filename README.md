@@ -12,7 +12,7 @@ I enjoy working on projects that combine clean code with a great user experience
 
 **Databases:**
 <img src="https://shields.io" alt="SQL Badge">
-<img src="https://shields.io" alt="MySQL Badge">
+<img src="https://shields.io" alt="MySQL">
 
 **Back-end:**
 ![Java](https://shields.io)
