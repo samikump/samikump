@@ -40,6 +40,10 @@ I enjoy working on projects that combine clean code with a great user experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-kumpulainen-80257147/)
 
+<br />
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samikumpulainen80@gmail.com)
+
 <a href="https://www.linkedin.com/in/sami-kumpulainen-80257147/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-logo&logoColor=white" alt="LinkedIn">
 </a>
