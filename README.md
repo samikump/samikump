@@ -41,5 +41,5 @@ I enjoy working on projects that combine clean code with a great user experience
 </a>
 <br />
 <a href="mailto:samikumpulainen80@gmail.com">
-  <img src="https://shields.io/badge/Email-D14836?logo=gmail">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail">
 </a>
