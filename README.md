@@ -29,17 +29,19 @@ I enjoy working on projects that combine clean code with a great user experience
 ---
 
 ### 📊 My GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samikump&theme=radial" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samikump&theme=radial&show_icons=true" alt="stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samikump&theme=radial" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikump&theme=radial" alt="languages" />
 </p>
 
 ### 📫 Connect with Me
+
 <a href="https://www.linkedin.com/in/sami-kumpulainen-80257147/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
 </a>
 <br />
 <a href="mailto:samikumpulainen80@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
 </a>
