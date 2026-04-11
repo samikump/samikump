@@ -1,6 +1,6 @@
 # Hi, I'm samikump! 👋
 
-### Database Expert | Problem Solver | Learner
+### Database Expert | Programmer | Mathematician (MSc) | Learner
 
 I specialize in databases.
 <br />
