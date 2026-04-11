@@ -36,6 +36,6 @@ I enjoy working on projects that combine clean code with a great user experience
 </p>
 
 ### 📫 Connect with Me
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/sami-kumpulainen-80257147/)
+[![LinkedIn(https://shields.io)](https://www.linkedin.com/in/sami-kumpulainen-80257147/)
 <br>
-[![Email](https://shields.io)](mailto:samikumpulainen80@gmail.com)
+[![Email(https://shields.io)](mailto:samikumpulainen80@gmail.com)
