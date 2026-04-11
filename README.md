@@ -24,6 +24,8 @@ I enjoy working on projects that combine clean code with a great user experience
 
 **Tools:**
 <img src="https://img.shields.io/badge/NetBeans-blue" alt="NetBeans">
+<img src="https://img.shields.io/badge/Eclipse-blue" alt="Eclipse">
+<img src="https://img.shields.io/badge/Visual Studio-blue" alt="Visual Studio">
 <img src="https://img.shields.io/badge/Git-blue" alt="Git">
 
 ---
