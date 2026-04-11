@@ -37,8 +37,8 @@ I enjoy working on projects that combine clean code with a great user experience
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/sami-kumpulainen-80257147/">
+    <img src="https://shields.io/badge/LinkedIn" alt="LinkedIn">
   </a>
 </p>
 <p>
