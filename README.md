@@ -34,6 +34,7 @@ I enjoy working on projects that combine clean code with a great user experience
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samikump&theme=radial" alt="languages" />
 </p>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samikump)](https://github.com/samikump/github-readme-stats)
 
 ### 📫 Connect with Me
 <a href="https://www.linkedin.com/in/sami-kumpulainen-80257147/">
