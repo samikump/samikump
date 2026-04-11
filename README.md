@@ -33,7 +33,7 @@ I enjoy working on projects that combine clean code with a great user experience
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=samikump&theme=radial" alt="stats" />
   <br />
-  <img src="https://vercel.app" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samikump&theme=radial" alt="languages" />
 </p>
 
 ### 📫 Connect with Me
