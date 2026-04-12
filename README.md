@@ -1,4 +1,4 @@
-# Hi, I'm samikump! 👋
+# Hi, I'm Sami! 👋
 
 ### Database Expert | Programmer | Mathematician (MSc) | Learner
 
