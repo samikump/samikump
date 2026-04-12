@@ -11,7 +11,10 @@ I enjoy working on projects that combine clean code with a great user experience
 ### 🛠️ My Tech Stack
 
 **Databases:**
+
 <img src="https://img.shields.io/badge/SQL-blue" alt="SQL">
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 <img src="https://img.shields.io/badge/MySQL-blue" alt="MySQL">
 
 **Back-end:**
