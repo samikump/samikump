@@ -23,6 +23,8 @@ I enjoy working on projects that combine clean code with a great user experience
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Tools:**
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+
 <img src="https://img.shields.io/badge/NetBeans-blue" alt="NetBeans">
 <img src="https://img.shields.io/badge/Eclipse-blue" alt="Eclipse">
 <img src="https://img.shields.io/badge/Visual Studio-blue" alt="Visual Studio">
