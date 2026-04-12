@@ -12,9 +12,7 @@ I enjoy working on projects that combine clean code with a great user experience
 
 **Databases:**
 
-<img src="https://img.shields.io/badge/SQL-blue" alt="SQL">
-<img src="https://img.shields.io/badge/MySQL-blue" alt="MySQL">
-
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Back-end:**
