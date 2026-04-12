@@ -16,12 +16,12 @@ I enjoy working on projects that combine clean code with a great user experience
 
 **Back-end:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-<img src="https://img.shields.io/badge/Java-blue" alt="Java">
 
 **Front-end:**
 <img src="https://img.shields.io/badge/HTML-blue" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-blue" alt="CSS">
 <img src="https://img.shields.io/badge/JavaScript-blue" alt="JavaScript">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=black)
 
 **Tools:**
 <img src="https://img.shields.io/badge/NetBeans-blue" alt="NetBeans">
