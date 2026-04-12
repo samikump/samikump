@@ -11,7 +11,6 @@ I enjoy working on projects that combine clean code with a great user experience
 ### 🛠️ My Tech Stack
 
 **Databases:**
-
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
