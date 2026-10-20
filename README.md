@@ -35,9 +35,9 @@ I enjoy working on projects that combine clean code with a great user experience
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://nice-readme.vercel.app/api?username=samikump&theme=radial&show_icons=true" alt="stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=samikump&theme=radial&show_icons=true" alt="stats" />
   <br />
-  <img src="https://nice-readme.vercel.app/api/top-langs/?username=samikump&theme=radial" alt="languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=samikump&theme=radial" alt="languages" />
 </p>
 
 ### 📫 Connect with Me
