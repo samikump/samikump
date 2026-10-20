@@ -40,6 +40,10 @@ I enjoy working on projects that combine clean code with a great user experience
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=samikump&theme=radial" alt="languages" />
 </p>
 
+<p align="left">
+  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
+</p>
+
 ### 📫 Connect with Me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-kumpulainen-80257147/)
