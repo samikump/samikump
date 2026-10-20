@@ -1,24 +1,24 @@
-name: Generate Profile Stats Cards
+name: Generate Classic Profile Stats Cards
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 
 permissions:
-  contents: write # 💡 This line grants permission to commit the stats graphics to your repository
+  contents: write
 
 jobs:
-  build-stats:
+  build-classic-stats:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Language Distribution and Metrics
-        uses: lowlighter/metrics@latest
+      - name: Generate Classic Stats Card
+        uses: anuraghazra/github-readme-stats-github-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, activity, community, repositories
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          filename: github-metrics.svg
+          username: samikump
+          theme: radial
+          show_icons: true
+          output_stats: classic-stats.svg
+          output_languages: classic-languages.svg
