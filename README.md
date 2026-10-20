@@ -35,13 +35,9 @@ I enjoy working on projects that combine clean code with a great user experience
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=samikump&theme=radial&show_icons=true" alt="stats" />
+  <img src="https://github-readme-stats-rehype.vercel.app/api?username=samikump&theme=radial&show_icons=true" alt="stats" />
   <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=samikump&theme=radial" alt="languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samikump&theme=radial" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-rehype.vercel.app/api/top-langs/?username=samikump&theme=radial" alt="languages" />
 </p>
 
 ### 📫 Connect with Me
