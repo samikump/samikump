@@ -34,7 +34,7 @@ I enjoy working on projects that combine clean code with a great user experience
 
 ### 📊 My GitHub Stats
 
-![My Technical Metrics](./github-metrics.svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samikump&show_icons=true)
 
 ### 📫 Connect with Me
 
