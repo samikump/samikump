@@ -41,7 +41,7 @@ I enjoy working on projects that combine clean code with a great user experience
 </p>
 
 <p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samikump&theme=radial" alt="GitHub Streak Stats" />
 </p>
 
 ### 📫 Connect with Me
