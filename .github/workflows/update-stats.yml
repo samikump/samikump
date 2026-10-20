@@ -1,7 +1,10 @@
 name: Generate Profile Stats Cards
 on:
-  schedule: [{cron: "0 0 * * *"}] # Automatically refreshes every day at midnight
-  workflow_dispatch: # Allows you to manually trigger it anytime
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+
+permissions:
+  contents: write # 💡 This line grants permission to commit the stats graphics to your repository
 
 jobs:
   build-stats:
