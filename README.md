@@ -34,6 +34,7 @@ I enjoy working on projects that combine clean code with a great user experience
 
 ### 📊 My GitHub Stats
 
+![My Technical Metrics](./github-metrics.svg)
 
 ### 📫 Connect with Me
 
