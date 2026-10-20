@@ -35,9 +35,9 @@ I enjoy working on projects that combine clean code with a great user experience
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://vercel.app" alt="stats" />
+  <img src="https://vercel.app\=samikump&theme\=radial&show_icons\=true&v\=1" alt="stats" />
   <br />
-  <img src="https://vercel.app" alt="languages" />
+  <img src="https://vercel.app\=samikump&theme\=radial&v\=1" alt="languages" />
 </p>
 
 ### 📫 Connect with Me
