@@ -38,7 +38,6 @@ I enjoy working on projects that combine clean code with a great user experience
   <tr>
     <td>
       <img src="https://github-stats-extended.vercel.app/api?username=samikump&show_icons=true" height=195 alt="GitHub Stats" />
-
     </td>
     <td>
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=samikump" height=195 alt="Top Languages" />
