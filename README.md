@@ -34,11 +34,6 @@ I enjoy working on projects that combine clean code with a great user experience
 ---
 
 ### 📊 My GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samikump&show_icons=true)
-<br />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samikump)
-
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=samikump&show_icons=true)
 <br />
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=samikump)
