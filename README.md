@@ -34,6 +34,14 @@ I enjoy working on projects that combine clean code with a great user experience
 ---
 
 ### 📊 My GitHub Stats
+<div>
+  <div align="left">
+    <img src="https://github-stats-extended.vercel.app/api?username=samikump&show_icons=true" height=195 alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=samikump" height=195 alt="Top Languages" />
+  </div>
+</div>
+
+<!--
 <table>
   <tr>
     <td>
@@ -44,6 +52,7 @@ I enjoy working on projects that combine clean code with a great user experience
     </td>
   </tr>
 </table>
+-->
 
 <!--
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=samikump&show_icons=true)
