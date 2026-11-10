@@ -4,9 +4,9 @@
 
 I specialize in <b>databases</b>.
 <br />
-My passions are <b>programming</b> (Java, JavaScript, Python, SQL) and <b>Mathematics/Statistics</b>.
+My passions are <b>programming</b> (Java, JavaScript, Python, SQL) and <b>mathematics</b> (algebra, group theory and statistics).
 <br />
-I enjoy working on projects that combine clean code with a great user experience.
+I enjoy working on projects that combine <u>clean code</u> with <u>great user experience</u>.
 
 ---
 
