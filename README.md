@@ -2,7 +2,7 @@
 
 ### Database Expert | Programmer | Mathematician (MSc) | Learner
 
-I specialize in <b>databases</b>.
+I specialize in **databases**.
 <br />
 My passions are <b>programming</b> (Java, JavaScript, Python, SQL) and <b>mathematics</b> (algebra, group theory and statistics).
 <br />
