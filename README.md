@@ -2,11 +2,9 @@
 
 ### Database Expert | Programmer | Mathematician (MSc) | Learner
 
-I specialize in **databases**.
-<br />
-My passions are <b>programming</b> (Java, JavaScript, Python, SQL) and <b>mathematics</b> (algebra, group theory and statistics).
-<br />
-I enjoy working on projects that combine <u>clean code</u> with <u>great user experience</u>.
+I specialize in **databases**. \
+My passions are **programming** (Java, JavaScript, Python, SQL) and **mathematics** (algebra, group theory and statistics). \
+I enjoy working on projects that combine *clean code* with *great user experience*.
 
 ---
 
