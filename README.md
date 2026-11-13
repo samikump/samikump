@@ -1,6 +1,6 @@
 # Hi, I'm Sami! 👋
 
-### Database Expert | Programmer | Mathematician (MSc) | Learner
+### Database Specialist | Programmer | Mathematician (MSc) | Learner
 
 I specialize in **databases**. \
 My passions are **programming** (Java, JavaScript, Python, SQL) and **mathematics** (algebra, group theory and statistics). \
