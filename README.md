@@ -39,11 +39,6 @@ I enjoy working on projects that combine *clean code* with *great user experienc
   </div>
 </div>
 
-<!--
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=samikump&show_icons=true)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=samikump)
--->
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-kumpulainen-80257147/)
