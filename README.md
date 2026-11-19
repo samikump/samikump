@@ -1,11 +1,13 @@
 # Hi, I'm Sami! 👋
 
 ### Database Specialist | Programmer | Mathematician (MSc) | Learner
-/
+
+\
 * 🗄️ **What I do:** Design and work with databases, building projects that combine *clean code* with *great user experience*.
 * 📐 **Background:** Master of Science in Mathematics with a focus on algebra, group theory, and statistics.
 * 🌱 **Mindset:** I enjoy exploring new tools, solving complex problems, and sharpening my craft.
-/
+\
+
 ---
 
 ### 🛠️ My Tech Stack
