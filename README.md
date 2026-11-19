@@ -2,9 +2,9 @@
 
 ### Database Specialist | Programmer | Mathematician (MSc) | Learner
 
-I design and work with **databases**. \
-My passions are **programming** (Java, JavaScript, Python, SQL) and **mathematics** (algebra, group theory and statistics). \
-I enjoy working on projects that combine *clean code* with *great user experience*.
+* 🗄️ **What I do:** Design and work with databases, building projects that combine *clean code* with *great user experience*.
+* 📐 **Background:** Master of Science in Mathematics with a focus on algebra, group theory, and statistics.
+* 🌱 **Mindset:** I enjoy exploring new tools, solving complex problems, and sharpening my craft.
 
 ---
 
