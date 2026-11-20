@@ -3,8 +3,8 @@
 ### Database Specialist | Programmer | Mathematician (MSc) | Learner
 
 * 🗄️ **What I do:** Design and manage databases, building projects that combine *clean code* with *great user experience*.
-* 📐 **Background:** Master of Science in Mathematics with a focus on algebra, group theory, and statistics.
-* 💻 **Languages:** Primarily coding in Java, alongside Python, JavaScript, and SQL or MySQL.
+* 📐 **Background:** Master of Science in Mathematics with a focus on Algebra, Group Theory, and Statistics.
+* 💻 **Languages:** Primarily coding in Java, alongside Python and JavaScript (with SQL or MySQL to manage databases).
 * 🌱 **Mindset:** I enjoy exploring new tools, solving complex problems, and sharpening my craft.
 
 ---
